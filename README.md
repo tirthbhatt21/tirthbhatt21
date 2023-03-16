@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **VUE JS, ANGULAR JS, CAKEPHP, WORDPRESS**
 
-- 👨‍💻 All of my projects are available at [https://tirthbhattofficial123.web.app/](https://tirthbhattofficial123.web.app/)
+- 👨‍💻 All of my projects are available on [https://tirthbhattofficial123.web.app/](https://tirthbhattofficial123.web.app/)
 
 - 🙌 Volunteer at [https://www.baps.org](https://www.baps.org)
 
