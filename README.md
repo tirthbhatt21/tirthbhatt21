@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tirthbhattofficial123.web.app/](https://tirthbhattofficial123.web.app/)
 
-- 🙌 Volunteer in [https://www.baps.org](https://www.baps.org)
+- 🙌 Volunteer at [https://www.baps.org](https://www.baps.org)
 
 - 💬 Ask me about **Webdevelopment**
 
