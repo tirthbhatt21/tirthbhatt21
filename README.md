@@ -114,4 +114,4 @@
 
 </details>
 
-<audio src="welcome.mp3" autoplay ></audio>
+<audio src="welcome.mp3" autoplay controls ></audio>
