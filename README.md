@@ -101,8 +101,8 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tirthbhatt21's streak" src="https://streak-stats.demolab.com/?user=tirthbhatt21&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/tirthbhatt21">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tirthbhatt21's streak" src="https://streak-stats.demolab.com/?user=tirthbhatt21&theme=monokai-metallian&hide_border=true"/></a>
     
   </p>
 
