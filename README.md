@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available on [https://tirthbhattofficial123.web.app/](https://tirthbhattofficial123.web.app/)
 
-- 🙌 Volunteer at [https://www.baps.org](https://www.baps.org)
+- 🙌 Volunteer at <a href="https://www.baps.org/home.aspx" target="blank"><img width="250px" title="B.A.P.S" src="https://www.baps.org/images/baps_logo_small.svg" /></a>
 
 - 💬 Ask me about **Webdevelopment**
 
