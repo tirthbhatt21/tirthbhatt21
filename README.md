@@ -32,6 +32,15 @@
 <a href="https://instagram.com/_tirth_bhatt_official" target="blank"><img width="35px" title="Instagram" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png"/></a>
 </p>
 
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <p align="left">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tirthbhatt21&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+  </p>
+
+  <a href="https://github.com/tirthbhatt21?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
