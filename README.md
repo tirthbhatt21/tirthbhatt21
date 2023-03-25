@@ -124,4 +124,4 @@
 
 </details>
 <hr>
-<img src="bottom 1.png">
+<img src="bottom 1.svg">
