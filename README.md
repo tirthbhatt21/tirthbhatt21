@@ -124,4 +124,4 @@
 
 </details>
 <hr>
-<img src="ft.svg">
+<img src="love.png">
