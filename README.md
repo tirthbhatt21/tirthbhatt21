@@ -1,5 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/1f034ebfc52e5fdcc097e7b3c6c9100e1fd606f5a99af8ea35f1d3a936bbfdfa/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://tirthbhattofficial123.web.app/)
-<h1 align="center">Hi 👋, I'm Tirth Bhatt</h1>
+<img src="post.svg">
 <h3 align="center">Welcome To My Profile 🙏</br></h3>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=060043&background=FFFFFF&center=true&vCenter=true&width=435&lines=+Hardwork+%2B+Prayer+%3D+%22Success%22+%E2%9C%A8;Passionate+Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;REACTJS+%7C+PHP+%7C+MYSQL+%7C+ASP.NET++%E2%80%BC;Active+Learner+%E2%9D%A4%EF%B8%8F;%F0%9F%92%AC+always+learning+new+things+;Gujarati+Boy+%F0%9F%A7%91%F0%9F%8F%BB" alt="Typing SVG" /></h1>
 <img align="right" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
@@ -124,3 +123,5 @@
   <br/>
 
 </details>
+<hr>
+<img src="india.svg">
