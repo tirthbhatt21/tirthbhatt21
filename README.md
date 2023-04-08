@@ -31,17 +31,6 @@
 <a href="https://instagram.com/_tirth_bhatt_official" target="blank"><img width="35px" title="Instagram" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png"/></a>
 </p>
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-  <p align="left" dir="auto">
-      <a href="https://github.com/tirthbhatt21/Full-Stack-Web-Development-Technologies">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tirthbhatt21&repo=Full-Stack-Web-Development-Technologies&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Full-Stack-Web-Development" style="max-width:100%;" />
-</a>
-  </p>
-
-  <a href="https://github.com/tirthbhatt21?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -119,7 +108,7 @@
   <h3>💻 GitHub Profile Stats</h3>
 
   <img alt="tirthbhatt21's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tirthbhatt21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tirthbhatt21&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  
   <br/>
 
 </details>
