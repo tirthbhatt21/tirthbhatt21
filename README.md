@@ -14,21 +14,32 @@
 
 - 🌱 I’m currently learning **VUE JS, ANGULAR JS, CAKEPHP, WORDPRESS**
 
-- 👨‍💻 All of my projects are available on [https://tirthbhattofficial123.web.app/](https://tirthbhattofficial123.web.app/)
-
 - 🙌 Volunteer at <a href="https://www.baps.org/home.aspx" target="blank"><img width="250px" title="B.A.P.S" src="https://www.baps.org/images/baps_logo_small.svg" /></a>
 
 - 💬 Ask me about **Webdevelopment**
-
-- 📫 How to reach me **tirthbhatt210@gmail.com**
 
 - ⚡ Fun fact **Gujju_Computergame_Player 🖥️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/tirth-bhatt-a78a7321a" target="blank"><img width="35px" title="Linkedin" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/></a>
+  <a href="https://linkedin.com/in/tirth-bhatt-a78a7321a" target="blank">
+  <img width="35px" title="Linkedin" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://instagram.com/_tirth_bhatt_official" target="blank"><img width="35px" title="Instagram" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png"/></a>
+<a href="https://instagram.com/_tirth_bhatt_official" target="blank">
+<img width="35px" title="Instagram" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://www.codecademy.com/profiles/TirthBhatt210" target="blank">
+<img width="35px" title="Codecademy" style="background-color:#5a5aff;" src="https://cdn.iconscout.com/icon/free/png-512/code-cademy-3445511-2878438.png"/>
+</a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="mailto:tirthbhatt210@gmail.com" target="blank">
+<img width="35px" title="E-mail" src="https://cdn.iconscout.com/icon/free/png-512/gmail-2981844-2476484.png"/>
+</a>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://tirthbhattofficial123.web.app/" target="blank">
+<img width="35px" title="Portfolio" src="https://img.icons8.com/color-glass/512/null/source-code.png"/>
+</a>
+
 </p>
 
 <details> 
