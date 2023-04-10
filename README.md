@@ -100,8 +100,17 @@
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=for-the-badge&logo=github&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-ff3b00?style=for-the-badge&logo=figma&logoColor=white"></a>
+  </p>
+    <h3> 📝 Editors</h3>
+
+  <p>
+     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Notepad++" src="https://staging.shields.io/badge/Notepad++-1e191a?style=for-the-badge&logo=notepadplusplus&logoColor=white"></a>
+      <a href="#"><img alt="Sublime Text" src="https://custom-icon-badges.demolab.com/badge/Sublime%20Text-FF9800.svg?logo=sublimetext&logoColor=white&style=for-the-badge"></a>
+       <a href="#"><img alt="Brackets" src="https://custom-icon-badges.demolab.com/badge/Brackets-0c0c14?style=for-the-badge&logo=brackets-1"></a>
+      <a href="#"><img alt="Atom" src="https://staging.shields.io/badge/Atom-35b17a?style=for-the-badge&logo=atom&logoColor=white"></a>
+       <a href="#"><img alt="Atpache NetBeans" src="https://custom-icon-badges.demolab.com/badge/Apache%20NetBeans-3c3c3c.svg?logo=netbeans&logoColor=white&style=for-the-badge"></a>
   </p>
 </details>
 
