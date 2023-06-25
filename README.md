@@ -108,6 +108,7 @@
 
   <p>
      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5e438f.svg?logo=visual_studio&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Notepad++" src="https://staging.shields.io/badge/Notepad++-1e191a?style=for-the-badge&logo=notepadplusplus&logoColor=white"></a>
       <a href="#"><img alt="Sublime Text" src="https://custom-icon-badges.demolab.com/badge/Sublime%20Text-FF9800.svg?logo=sublimetext&logoColor=white&style=for-the-badge"></a>
        <a href="#"><img alt="Brackets" src="https://custom-icon-badges.demolab.com/badge/Brackets-0c0c14?style=for-the-badge&logo=brackets-1"></a>
@@ -133,7 +134,7 @@
   <img alt="tirth's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tirthbhatt21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="172px"/>
   <img alt="tirth's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tirthbhatt21&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="172px"/>    
   <br/>
-  <img alt="tirth's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=tirthbhatt21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="tirth's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tirthbhatt21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 </details>
 <hr>
