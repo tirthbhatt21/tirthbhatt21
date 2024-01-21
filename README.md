@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **React Portfolio**
 
-- 🌱 I’m currently learning **VUE JS, ANGULAR JS, CAKEPHP, WORDPRESS**
+- 🌱 I’m currently learning **NextJs,MongoDB,ReactJs,AngularJs,ExpressJs**
 
 - 🙌 Volunteer at <a href="https://www.baps.org/home.aspx" target="blank"><img width="250px" title="B.A.P.S" src="https://www.baps.org/images/baps_logo_small.svg" /></a>
 
