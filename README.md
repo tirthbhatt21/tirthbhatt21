@@ -36,7 +36,7 @@
 <img width="35px" title="E-mail" src="https://cdn.iconscout.com/icon/free/png-512/gmail-2981844-2476484.png"/>
 </a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://tirthbhattofficial123.web.app/" target="blank">
+<a href="https://tirth-bhatt-developer.web.app/" target="blank">
 <img width="35px" title="Portfolio" src="https://img.icons8.com/color-glass/512/null/source-code.png"/>
 </a>
 
