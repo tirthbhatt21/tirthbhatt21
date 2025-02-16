@@ -39,15 +39,10 @@
 <a href="https://tirth-bhatt-developer.web.app/" target="blank">
 <img width="35px" title="Portfolio" src="https://img.icons8.com/color-glass/512/null/source-code.png"/>
 </a>
-
-</p>
-
-<h3 align="left">Coming soon...</h3>
-<p align="left">
   <a href="https://tirth-bhatt-official.web.app/" target="blank">
   <img width="35px" title="Portfolio" src="https://tirthbhatt21.github.io/MyPlay/logo.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
