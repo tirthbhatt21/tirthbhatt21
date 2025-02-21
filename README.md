@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/user-attachments/assets/4159dba3-7c2a-4c34-bf4c-adcb9b29560b)
 
 <h3 align="center">Welcome To My Profile 🙏</br></h3>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=060043&background=FFFFFF&center=true&vCenter=true&width=435&lines=+Hardwork+%2B+Prayer+%3D+%22Success%22+%E2%9C%A8;Passionate+Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;REACTJS+%7C+PHP+%7C+MYSQL+%7C+ASP.NET++%E2%80%BC;Active+Learner+%E2%9D%A4%EF%B8%8F;%F0%9F%92%AC+always+learning+new+things+;Gujarati+Boy+%F0%9F%A7%91%F0%9F%8F%BB" alt="Typing SVG" /></h1>
