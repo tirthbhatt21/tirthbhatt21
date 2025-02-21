@@ -11,7 +11,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tirthbhatt21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  <a href="https://github.com/tirthbhatt21"><img alt="views" title="GitHub profile views" alt="tirthbhatt21" src="https://komarev.com/ghpvc/?username=tirthbhatt21&label=Profile%20visitors&color=800080&style=for-the-badge"/></a>
      </p>
 
-- 🔭 I’m currently working on **React Portfolio**
+- 🔭 I’m currently studing in **M.TECH**
 
 - 🌱 I’m currently learning **NextJs, MongoDB, ReactJs, AngularJs, ExpressJs**
 
