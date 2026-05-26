@@ -30,8 +30,7 @@
 <a href="https://www.codecademy.com/profiles/TirthBhatt210" target="blank">
 <img width="35px" title="Codecademy" style="background-color:#5a5aff;" src="https://cdn.iconscout.com/icon/free/png-512/code-cademy-3445511-2878438.png"/>
 </a>
-
- &#8287;&#8287;&#8287;&#8287;&#8287;
+&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://tirth-bhatt-developer.web.app/" target="blank">
 <img width="35px" title="Portfolio" src="https://img.icons8.com/color-glass/512/null/source-code.png"/>
 </a>
