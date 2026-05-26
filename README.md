@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **NextJs, MongoDB, ReactJs, AngularJs, ExpressJs**
 
-- 🙌 Volunteer at <a href="https://www.baps.org/home.aspx" target="blank"><img width="250px" title="B.A.P.S" src="https://www.baps.org/images/baps_logo_small.svg" /></a>
-
 - 💬 Ask me about **Webdevelopment**
 
 - ⚡ Fun fact **Gujju_Computergame_Player 🖥️**
@@ -32,16 +30,11 @@
 <a href="https://www.codecademy.com/profiles/TirthBhatt210" target="blank">
 <img width="35px" title="Codecademy" style="background-color:#5a5aff;" src="https://cdn.iconscout.com/icon/free/png-512/code-cademy-3445511-2878438.png"/>
 </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="mailto:tirthbhatt210@gmail.com" target="blank">
-<img width="35px" title="E-mail" src="https://cdn.iconscout.com/icon/free/png-512/gmail-2981844-2476484.png"/>
-</a>
+
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://tirth-bhatt-developer.web.app/" target="blank">
 <img width="35px" title="Portfolio" src="https://img.icons8.com/color-glass/512/null/source-code.png"/>
 </a>
-  <a href="https://tirth-bhatt-official.web.app/" target="blank">
-  <img width="35px" title="Portfolio" src="https://tirthbhatt21.github.io/MyPlay/logo.png"/></a>
 </p>
 
 
